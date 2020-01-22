@@ -5,11 +5,6 @@
   "main": "src/index.js",
   "license": "MIT",
   "description": "Reusable charts built with D3",
-  "homepage": "https://github.com/afagin/react-d3-charts.git",
-  "repository": {
-    "url": "https://github.com/afagin/react-d3-charts.git",
-    "type": "git"
-  },
   "engines": {
     "node": "^6.8.0"
   },

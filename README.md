@@ -2,19 +2,9 @@
 
 > You first need to clone the project on your computer, and to install [Node](https://nodejs.org). This project also uses [nvm](https://github.com/creationix/nvm), and [yarn](https://yarnpkg.com/).
 
-From the command-line:
-
-```sh
-cd ~/Development/sites/
-git clone git@github.com:afagin/react-d3-charts.git
-cd reusable-d3-charts
-```
-
 To install our dependencies:
 
 ```sh
-nvm install
-# Then, install all project dependencies.
 yarn install
 # Optionally, install the git hooks.
 ./.githooks/deploy
